@@ -29,6 +29,7 @@ public class Solution {
         return temp;
     }
 
+
     // 辅助方法，用于将链表转换为字符串形式以便输出
     private static String listToString(ListNode head) {
         StringBuilder sb = new StringBuilder();
